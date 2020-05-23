@@ -6,9 +6,9 @@ This repository records the companion code and dataset for the manuscript:
  
 which has been submitted to Hydrology and Earth System Sciences (HESS).\
 
-\
-This repository contains three files:
- 	1. CHEMMA.ipynb             The Python example code with comments 
+
+This repository contains three files:\
+1.  CHEMMA.ipynb             The Python example code with comments 
 	2. panola_data.csv 	    The streamwater samples used for the paper, from Hooper et al. (1990)
 	3. panola_end_members.csv   The field end-member samples, from Hooper and Chirstophersen (1992)
 
