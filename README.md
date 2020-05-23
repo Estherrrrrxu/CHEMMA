@@ -1,3 +1,3 @@
-# CHEMMA
+# CHEMMA example application for Panola Mountain Research Dataset
 
-This is for the CHEMMA paper code. I should make this publically available later.
+This repository consist of three parts
