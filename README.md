@@ -1,5 +1,7 @@
 # CHEMMA example application for Panola Mountain Research Dataset
 
+DOI: 10.5281/zenodo.3841218 
+ 
 This repository records the companion code and dataset for the manuscript:
 
 - **Technical Note: A data-driven method for estimating the composition of end-members from streamwater chemistry observations**,
